@@ -1,0 +1,4 @@
+pane	0	0	:vim	1	:*	0	:/home/wind85/Documents/cpp/runtime/build	1	vim	:gksu mullvad
+vim ../include/task_pool.hpp
+window	0	0	1	:*	cc7f,123x29,0,0,2
+state	0	

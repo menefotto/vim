@@ -1,0 +1,3 @@
+pane	0	0	:vim	1	:*	0	:/home/wind85/Documents/cpp/cppbase/src	1	vim	:vim ../include/graph_algorithms.hpp
+window	0	0	1	:*	ac3f,136x30,0,0,2
+state	0	

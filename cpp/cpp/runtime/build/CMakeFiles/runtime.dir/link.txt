@@ -1,0 +1,1 @@
+/usr/bin/clang++-4.0  -std=c++1z -g -Wall -pedantic   CMakeFiles/runtime.dir/src/main.cpp.o  -o runtime -lpthread /usr/local/lib/libfmt.a 

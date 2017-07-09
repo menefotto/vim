@@ -1,0 +1,5 @@
+pane	0	0	:htop	1	:*	0	:/home/wind85/Documents/cpp/runtime/build	0	valgrind.bin	:gksu mullvad
+/usr/bin/valgrind.bin ./runtime
+pane	0	0	:htop	1	:*	1	:/home/wind85	1	htop	:htop
+window	0	0	1	:*	a280,136x32,0,0{68x32,0,0,2,67x32,69,0,3}
+state	0	

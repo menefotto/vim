@@ -1,0 +1,4 @@
+pane	0	0	:su	1	:*	0	:/home/wind85/Documents/cpp/runtime	1	apt	:gksu mullvad
+su
+window	0	0	1	:*	b43f,136x32,0,0,2
+state	0	

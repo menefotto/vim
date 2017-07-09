@@ -1,0 +1,1 @@
+/usr/bin/clang++-4.0  -std=c++1z -g -Wall -pedantic   CMakeFiles/queue_bench.dir/tests/queue_bench.cpp.o  -o queue_bench -lpthread /usr/local/lib/libbenchmark.a 

@@ -1,0 +1,5 @@
+pane	0	0	:~/Downloads	1	:*	0	:/home/wind85/Downloads	1	zsh	:
+pane	1	0	:~	1	:*	0	:/home/wind85	1	zsh	:
+window	0	0	1	:*	b75e,67x34,0,0,1
+window	1	0	1	:*	b040,136x31,0,0,3
+state	1	

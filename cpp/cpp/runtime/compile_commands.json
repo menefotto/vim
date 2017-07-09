@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wind85/Documents/cpp/runtime/build",
+  "command": "/usr/bin/clang++-4.0   -I/home/wind85/Documents/cpp/runtime/include    -std=gnu++1z -o CMakeFiles/runtime.dir/src/main.cpp.o -c /home/wind85/Documents/cpp/runtime/src/main.cpp",
+  "file": "/home/wind85/Documents/cpp/runtime/src/main.cpp"
+}
+]

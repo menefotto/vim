@@ -1,0 +1,3 @@
+pane	0	0	:..runtime/build	1	:*	0	:/home/wind85/Documents/cpp/runtime/build	1	zsh	:
+window	0	0	1	:*	ca3e,136x28,0,0,1
+state	0	

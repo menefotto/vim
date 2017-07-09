@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wind85/Documents/cpp/runtime/build",
+  "command": "/usr/bin/clang++-4.0   -I/home/wind85/Documents/cpp/runtime/include -I/usr/local/include  -std=c++1z -g -Wall -pedantic   -std=gnu++1z -o CMakeFiles/queue_bench.dir/tests/queue_bench.cpp.o -c /home/wind85/Documents/cpp/runtime/tests/queue_bench.cpp",
+  "file": "/home/wind85/Documents/cpp/runtime/tests/queue_bench.cpp"
+},
+{
+  "directory": "/home/wind85/Documents/cpp/runtime/build",
+  "command": "/usr/bin/clang++-4.0   -I/home/wind85/Documents/cpp/runtime/include -I/usr/local/include  -std=c++1z -g -Wall -pedantic   -std=gnu++1z -o CMakeFiles/runtime.dir/src/main.cpp.o -c /home/wind85/Documents/cpp/runtime/src/main.cpp",
+  "file": "/home/wind85/Documents/cpp/runtime/src/main.cpp"
+}
+]

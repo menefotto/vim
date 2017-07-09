@@ -1,0 +1,4 @@
+pane	0	0	:..ments/cpp/fmt	1	:*	0	:/home/wind85/Documents/cpp/runtime/build	0	zsh	:
+pane	0	0	:..ments/cpp/fmt	1	:*	1	:/home/wind85/Documents/cpp/fmt	1	zsh	:
+window	0	0	1	:*	1907,136x29,0,0[136x14,0,0,1,136x14,0,15,3]
+state	0	

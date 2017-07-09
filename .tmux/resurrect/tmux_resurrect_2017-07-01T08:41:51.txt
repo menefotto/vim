@@ -1,0 +1,3 @@
+pane	0	0	:~	1	:*	0	:/home/wind85	1	zsh	:gksu mullvad
+window	0	0	1	:*	b03f,136x31,0,0,2
+state	0	

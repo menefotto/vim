@@ -1,0 +1,3 @@
+pane	0	0	:~/Downloads	1	:*	0	:/home/wind85/Downloads	1	zsh	:gksu mullvad
+window	0	0	1	:*	b43f,136x32,0,0,2
+state	0	

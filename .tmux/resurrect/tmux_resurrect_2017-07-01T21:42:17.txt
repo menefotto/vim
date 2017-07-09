@@ -1,0 +1,3 @@
+pane	0	0	:..runtime/build	1	:*	0	:/home/wind85/Documents/cpp/runtime/build	1	zsh	:gksu mullvad
+window	0	0	1	:*	c87f,123x28,0,0,2
+state	0	

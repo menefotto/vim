@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javaws /home/wind85/Documents/topcoder/setup/ContestAppletProd.jnlp
+
